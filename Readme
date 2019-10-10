@@ -1,26 +1,9 @@
 This is a simple app that lets you add items to a Todo list and edit their titles.
 
 Building
-![Picture](https://![Picture](https://https://github.com/jankidepala/todo-application-crud/blob/master/TODOList_React.png)
+![Picture](https://![Picture](https://github.com/jankidepala/todo-application-crud/blob/master/TODO.png)
 )
 
---------
-
-**** Before you start please edit the TodoAPI.js file and change the userID constant to your email address. ****
-
-To run the application on the HackerRank IDE:
-
-1. From the menu select "Run/Install"
-2. When step 1 is complete select "Run/Run"
-3. You should now be able to open the app by clicking the preview button on the top right corner of the IDE.
-
-Or if you are building it on your own computer:
-
-- Run `npm install` in the project directory
-- Run `npm run start` to build the app and start a server.
-- You can access the app at http://127.0.0.1:8000
-
-If all went well you should see a page with an "Add Todo" button. You should be able to reload the app and any changes you make should be persistent.
 
 API
 ---
@@ -70,3 +53,20 @@ Deletes a Todo item
 Parameters:
   :todo - The id of the item to delete
 
+--------
+
+**** Before you start please edit the TodoAPI.js file and change the userID constant to your email address. ****
+
+To run the application on the HackerRank IDE:
+
+1. From the menu select "Run/Install"
+2. When step 1 is complete select "Run/Run"
+3. You should now be able to open the app by clicking the preview button on the top right corner of the IDE.
+
+Or if you are building it on your own computer:
+
+- Run `npm install` in the project directory
+- Run `npm run start` to build the app and start a server.
+- You can access the app at http://127.0.0.1:8000
+
+If all went well you should see a page with an "Add Todo" button. You should be able to reload the app and any changes you make should be persistent.
