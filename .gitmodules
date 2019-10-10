@@ -1,0 +1,3 @@
+[submodule "todo-application-crud"]
+	path = todo-application-crud
+	url = https://github.com/jankidepala/todo-application-crud
